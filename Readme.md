@@ -2,9 +2,8 @@
 
 
 ### WiTools (0.9 Beta)
-[Link]
 https://github.com/Tresillo2017/WiTools/blob/b4b5d0f28e43d00b72da2424e2d067c86618af24/WiTools%20(0.9)
-(url)
+
 ```Hecho con Mit App Inventor```
 
 # Cambios en la versión 
