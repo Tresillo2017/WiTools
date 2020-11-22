@@ -1,5 +1,5 @@
 ## WiTools
-Para descargarlo haz click en el botón 'View On GitHub'. Le das al botón verde 'Code' y dentro de 'Code', 'Download ZIP'
+Para descargarlo haz click en el botón ```View On GitHub```. Le das al botón verde ```Code``` y dentro de ```Code```, ```Download ZIP```
 
 
 ### WiTools (0.9 Beta)
