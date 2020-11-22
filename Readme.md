@@ -1,5 +1,5 @@
 ## WiTools
-https://github.com/Tresillo2017/WiTools/blob/b4b5d0f28e43d00b72da2424e2d067c86618af24/WiTools%20(0.9)
+Para descargarlo haz click en el botón 'View On GitHub'. Le das al botón verde 'Code' y dentro de 'Code', 'Download ZIP'
 
 
 ### WiTools (0.9 Beta)
