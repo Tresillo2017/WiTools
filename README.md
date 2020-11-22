@@ -21,7 +21,7 @@ Fondo añadido
                             Descripción
 Una app para descubrir los secretos de tu wifi y mas 
   
- Para installar la app tienes que descargarte el apk en tu movil (preferiblemente android). Despues te diriges a ajustes, seguridad y activas la opcion de origenes desconocidos. Despues de activar esa opcion ya puedes abrir el .APK e instalarlo en tu movil. 
+ Para instalar la app tienes que descargarte el apk en tu movil (preferiblemente android). Despues te diriges a ajustes, seguridad y activas la opcion de origenes desconocidos. Despues de activar esa opcion ya puedes abrir el .APK e instalarlo en tu movil. 
 
 El uso de la app es muy simple. Necesitas tener la ubicación activada y aceptar los permisos (Write system configuration  y  Locatión source settings). 
 
